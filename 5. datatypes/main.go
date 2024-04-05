@@ -35,7 +35,7 @@ func integers() {
 	var integer3 rune = 100
 	fmt.Println(integer3)
 
-	//byte is an alias uint8
+	//byte is a uint8 alias
 	var integer4 byte = 100
 	fmt.Println(integer4)
 }
